@@ -1,0 +1,3 @@
+SR no. is : 99
+Product name is : sabun
+product price : 99

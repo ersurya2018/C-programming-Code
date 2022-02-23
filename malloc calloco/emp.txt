@@ -1,0 +1,9 @@
+Employee Id=102
+Employee Name=suraj
+Employee Salary=90000
+Employee Id=103
+Employee Name=surya
+Employee Salary=90001
+Employee Id=104
+Employee Name=bhanu 
+Employee Salary=90010
